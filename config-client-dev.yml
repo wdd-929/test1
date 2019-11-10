@@ -1,3 +1,6 @@
 
 test: 
   aa: wdd123
+  
+server:
+  port: 8888
